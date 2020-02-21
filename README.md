@@ -5,4 +5,4 @@ This was made using Unity's ECS and Job Systems.
 WASD for movement.
 Click to shoot and aim.
 Space to freeze time.
-
+Esc to pause.
